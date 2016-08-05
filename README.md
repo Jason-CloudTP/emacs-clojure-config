@@ -1,6 +1,6 @@
-# Example Config
+# Emacs Clojure Config with Evil-Mode
 
-An example Emacs configuration for Clojure development with CIDER and clj-refactor.
+An example Emacs configuration for Clojure development with CIDER and clj-refactor. This configuration turns on evil-mode for vim emulation.  Use C-z to toggle between emacs and vim modes.
 
 ## Usage
 
