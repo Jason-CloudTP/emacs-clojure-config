@@ -1,0 +1,11 @@
+auto-save-list
+backups
+cider-history
+elpa
+ido.last
+places
+site-lisp
+lisp/customizations
+*\#
+*~
+*.bak
